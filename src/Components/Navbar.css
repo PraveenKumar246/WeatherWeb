@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background: #fff; 
+}
+* {
+  margin: 0;
+  padding: 0;
+
+}
+i {
+  margin-right: 15px;
+}
+.navbar-logo {
+    padding: 6px;
+    color: #fff;
+    
+}
+.logo{
+    font-size: 25px;
+}
+.nav-link{
+    color: #fff
+}
+  
+.navbar-mainbg {
+    background-color: #C8A2C8;
+    padding: 0px;
+}
+.navbar-nav{
+    margin-left: 800px;
+}
