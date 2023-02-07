@@ -27,9 +27,7 @@
     box-shadow: 2px 2px 12px 2px white !important ;
 
   }
-  h2{
-    margin-right: 80px;
-  }
+  
   .content{
     margin-top: 20px;
 
@@ -47,7 +45,7 @@
  
   }
   .desc{
-       margin-right: 200px;
+       margin-left: -170px;
   }
   .MinMax-temp{
     display: flex;
@@ -135,6 +133,12 @@
     .search-form button {
       width: 25%;
     }
+    .paper{
+      width: 75%;
+    }
+    .desc{
+      margin-right: -160px;
+ }
   }
   @media only screen and (max-width: 600px) {
     .search-form input {
@@ -143,6 +147,12 @@
     .search-form button {
       width: 25%;
     }
+    .paper{
+      width: 75%;
+    }
+    .desc{
+      margin-right: -170px;
+ }
   }
   @media only screen and (min-width: 768px){
     .search-form input {
